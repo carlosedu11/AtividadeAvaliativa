@@ -6,7 +6,8 @@ Este projeto foi desenvolvido com o objetivo de fazer um dado onde quando aperta
 # Projeto executado
 
 ## imagem 1
-![Screenshot_2022-12-06-21-26-10-845_com example affirmations](https://user-images.githubusercontent.com/102106531/206062887-046202a7-f978-4d5f-860f-b5ab24be58dd.jpg)
+![Screenshot_2022-12-06-21-53-31-022_com example diceroller](https://user-images.githubusercontent.com/102106531/206068267-0c1d746e-2c40-44af-b50c-9164760d490a.jpg)
 
 ## imagem 2
-![Screenshot_2022-12-06-21-26-17-829_com example affirmations](https://user-images.githubusercontent.com/102106531/206062901-cd3a4c86-c12d-4ff2-bbf9-9d997c312276.jpg)
+![Screenshot_2022-12-06-22-34-40-894_com example diceroller](https://user-images.githubusercontent.com/102106531/206068284-3a5e12bf-d275-430c-bee8-6672b28941f4.jpg)
+
